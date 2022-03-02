@@ -24,6 +24,15 @@ public class Buoi1 {
 //        System.out.println("Địa chỉ : " + address);
 //        System.out.println("Tuổi : " + age);
 
+        // 3 : toán tử
+//        int a = 5;
+//        int b = 10;
+//
+//        int ketQua = a++ - b-- - --b + a-- + ++a;
+//        System.out.println("giá trị a = " + a);
+//        System.out.println("giá trị b = " + b);
+//        System.out.println("kết quả = " + ketQua);
+
 
     }
 }
