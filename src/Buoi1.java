@@ -12,6 +12,18 @@ public class Buoi1 {
         // boolean ( kiểu dữ liệu chỉ 2 miền giá trị đúng or sai )
 
         // Nhóm 2 : kiểu dữ liệu đối tượng ( object type )
+        // 2 : khai báo biến
+//        String name = "Nguyễn Trường Phi";
+//        int phone = 999999;
+//        String address = "Thiên Đàng";
+//        int age = 19;
+
+        // Phương thức
+//        System.out.println("Họ và tên : " + name);
+//        System.out.println("Số điện thoại : " + phone);
+//        System.out.println("Địa chỉ : " + address);
+//        System.out.println("Tuổi : " + age);
+
 
     }
 }
