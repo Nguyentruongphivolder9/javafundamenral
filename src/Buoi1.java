@@ -70,6 +70,42 @@ public class Buoi1 {
 //            System.out.println(" Béo phì III ");
 //        }
 
+//        System.out.print("Nhập chiều cao của bạn : ");
+//        Scanner scanner = new Scanner(System.in);
+//        double height = scanner.nextDouble();
+//
+//        System.out.print("Nhập cân nặng của bạn : ");
+//        double weight = scanner.nextDouble();
+//
+//        double bmi = weight / (height * height);
+//
+//        System.out.println(" bmi : " + bmi);
+//
+//        if (bmi < 16){
+//            System.out.println("Gầy độ III");
+//        }else if (bmi <= 16.9){
+//            System.out.println("Gầy độ II");
+//        }else if (bmi <= 18.4){
+//            System.out.println("Gầy độ I");
+//        }else if (bmi <= 24.9){
+//            System.out.println("Bình thường");
+//        }else if (bmi <= 29.9){
+//            System.out.println("Thừa cân");
+//        }else if (bmi <= 34.9){
+//            System.out.println("Béo phì độ I");
+//        } else if (bmi <= 39.9) {
+//            System.out.println("Béo phì độ II");
+//        }else if (bmi >= 40){
+//            System.out.println("Béo phì độ III");
+//        }
+
+        // Tạo ra object
+//        Animal meo = new Animal("3" , "0.5");
+//
+//        meo.showInfo();
+        // 1 : Tính đóng gói
+//        public, private, default, protected
+        // 2 : Tính kế thừa (Dùng cho việc nâng cấp)
 
 
     }
