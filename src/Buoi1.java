@@ -185,22 +185,26 @@ public class Buoi1 {
 //                  }
 //              }
 //          }
+        // bài tập : tính tổng các phần tử trong mảng
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        // Tạo ra object
+//        int[] arr1 = {1,3,10,14,15,12,20};
+//        int result = 0;
+//        for (int i = 0 ; i < arr1.length ; i++){
+//            result += arr1[i];
+//        }
+//        System.out.println("Tổng : " + result);
+        // bài 2 :
+//        int[] arr1 = {1,2,3,4,5};
+//        int[] arr2 = {10,20,30};
+//
+//        for (int i = 0 ; i < arr2.length ; i++){
+//            int valueArr2 = arr2[i];
+//            for (int y = 0 ; y < arr1.length ; y++){
+//                int value = arr1[y] * valueArr2;
+//                System.out.println(value);
+//            }
+//        }
+//        // Tạo ra object
 //        Animal meo = new Animal("3" , "0.5");
 //
 //        meo.showInfo();
