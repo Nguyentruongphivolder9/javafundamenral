@@ -99,6 +99,56 @@ public class Buoi1 {
 //            System.out.println("Béo phì độ III");
 //        }
 
+
+
+        // 5 : Câu điều kiện swtich case
+
+//        System.out.print("Nhập tháng");
+//        Scanner scanner = new Scanner(System.in);
+//        int month = scanner.nextInt();
+//
+//        switch (month){
+//            case 1 :
+//            case 2 :
+//            case 3 :
+//                System.out.println("Là quý 1");
+//                break;
+//            case 4 :
+//            case 5 :
+//            case 6 :
+//                System.out.println("Là quý 2");
+//                break;
+//            case 7 :
+//            case 8 :
+//            case 9 :
+//                System.out.println("Là quý 3");
+//                break;
+//            case 10 :
+//            case 11 :
+//            case 12 :
+//                System.out.println("Là quý 4");
+//                break;
+//            default:
+//                System.out.println("Không thuộc quý nào");
+//                break;
+//        }
+//        System.out.println("tiếp tục");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         // Tạo ra object
 //        Animal meo = new Animal("3" , "0.5");
 //
