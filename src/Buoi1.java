@@ -134,6 +134,19 @@ public class Buoi1 {
 //        }
 //        System.out.println("tiếp tục");
 
+        // 6 : Mảng array
+
+        // Khai báo mảng khi biết kích thước
+        String[] arrName = new String[10];
+
+        //Khai báo mảng và định nghĩa các phần tử
+        int[] arrNumbers = {10,20,30,40,50,60};
+
+        // Lấy kích thước mảng
+        // arrNumbers.length
+
+        // Lấy giá trị phần tử trong
+        System.out.println(arrNumbers[arrNumbers.length - 1]);
 
 
 
