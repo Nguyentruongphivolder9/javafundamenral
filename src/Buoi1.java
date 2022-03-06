@@ -170,12 +170,21 @@ public class Buoi1 {
 //        int[] arrNumbers = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15};
 //        for (int i = 0 ; i < arrNumbers.length ; i++){
 //            if (arrNumbers[i] % 2 == 0){
-//                System.out.println("valuen: " + arrNumbers[i]);
+//                System.out.println("value: " + arrNumbers[i]);
 //            }
 //        }
-
-
-
+//          int[] arrName = {1,2,3,45,657,6,4552,525,52,};
+//          for (int i = 0 ; i < arrName.length ; i++){
+//              if (arrName[i] % 2 == 0){
+//                  if (i == 0) {
+//                      continue;
+//                  }else {
+//                      System.out.println("Value : " + i);
+//                      System.out.println("Index : " + i);
+//                      break;
+//                  }
+//              }
+//          }
 
 
 
