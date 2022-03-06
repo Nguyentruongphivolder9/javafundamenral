@@ -10,6 +10,8 @@ public class Buoi1 {
         // int, long ( kiểu số nguyên )
         // float, double ( kiểu số thực hay gọi là số có thập phân )
         // boolean ( kiểu dữ liệu chỉ 2 miền giá trị đúng or sai )
+//  Kiểu null kh dành cho kiểu nguyên thủy
+
 
         // Nhóm 2 : kiểu dữ liệu đối tượng ( object type )
         // 2 : khai báo biến
@@ -100,7 +102,6 @@ public class Buoi1 {
 //        }
 
 
-
         // 5 : Câu điều kiện swtich case
 
 //        System.out.print("Nhập tháng");
@@ -137,16 +138,44 @@ public class Buoi1 {
         // 6 : Mảng array
 
         // Khai báo mảng khi biết kích thước
-        String[] arrName = new String[10];
+//        String[] arrNames = new String[10];
 
         //Khai báo mảng và định nghĩa các phần tử
-        int[] arrNumbers = {10,20,30,40,50,60};
+//        int[] arrNumbers = {10,20,30,40,50,60};
 
         // Lấy kích thước mảng
         // arrNumbers.length
 
         // Lấy giá trị phần tử trong
-        System.out.println(arrNumbers[arrNumbers.length - 1]);
+//        System.out.println(arrNumbers[arrNumbers.length - 1]);
+
+        // cập nhật giá trị cho phần tử
+//        arrNames[0] = "C";
+//        arrNames[1] = "h";
+//        arrNames[2] = "â";
+//        arrNames[3] = "u";
+
+        // 6 : vòng lặp for
+
+//        for(int i = 0 ; i < 10 ; i++){
+//            // int i = 0 : khởi tạo cho vị trí bắt đầu
+//            // i < 10 : kiểm tra điều kiện
+//            // i++, i+=2 : bước nhảy
+//            System.out.println("Value : " + i);
+//    }
+//        String[] arrNames = {"C","h","â","u"};
+//        for (int i = 0 ; i < arrNames.length ; i++ ){
+//            System.out.println("Name : " + arrNames[i] );
+//    }
+//        int[] arrNumbers = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15};
+//        for (int i = 0 ; i < arrNumbers.length ; i++){
+//            if (arrNumbers[i] % 2 == 0){
+//                System.out.println("valuen: " + arrNumbers[i]);
+//            }
+//        }
+
+
+
 
 
 
